@@ -2,7 +2,7 @@
 
 [English](README.md) | [Español](README.es.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | Français | [Türkçe](README.tr.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [Русский](README.ru.md)
 
-[![Happy Horse 1.0 Banner](banner.png)](https://evolink.ai/models?utm_source=github&utm_medium=banner&utm_campaign=happy-horse)
+[![Happy Horse 1.0 Banner](banner.png)](https://evolink.ai/happyhorse-coming-soon?utm_source=github&utm_medium=banner&utm_campaign=happy-horse)
 
 Suivez en un seul endroit les derniers signaux de Happy Horse 1.0, y compris le compte officiel sur X, les publications publiques d'Alibaba et la réaction de la communauté.
 

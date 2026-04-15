@@ -2,7 +2,7 @@
 
 [English](README.md) | [Español](README.es.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Türkçe](README.tr.md) | 繁體中文 | [简体中文](README.zh-CN.md) | [Русский](README.ru.md)
 
-[![Happy Horse 1.0 Banner](banner.png)](https://evolink.ai/models?utm_source=github&utm_medium=banner&utm_campaign=happy-horse)
+[![Happy Horse 1.0 Banner](banner.png)](https://evolink.ai/happyhorse-coming-soon?utm_source=github&utm_medium=banner&utm_campaign=happy-horse)
 
 在同一個地方追蹤 Happy Horse 1.0 的最新訊號，包括官方 X 帳號、阿里巴巴側公開貼文、榜單熱度與社群反應。
 

@@ -2,7 +2,7 @@
 
 [English](README.md) | [Español](README.es.md) | [Português](README.pt.md) | 日本語 | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Türkçe](README.tr.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [Русский](README.ru.md)
 
-[![Happy Horse 1.0 Banner](banner.png)](https://evolink.ai/models?utm_source=github&utm_medium=banner&utm_campaign=happy-horse)
+[![Happy Horse 1.0 Banner](banner.png)](https://evolink.ai/happyhorse-coming-soon?utm_source=github&utm_medium=banner&utm_campaign=happy-horse)
 
 公式Xアカウント、Alibaba側の公開投稿、コミュニティの反応を含む、Happy Horse 1.0の最新シグナルを一か所で追跡します。
 

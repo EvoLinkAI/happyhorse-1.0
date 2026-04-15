@@ -2,7 +2,7 @@
 
 [English](README.md) | [Español](README.es.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | Türkçe | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [Русский](README.ru.md)
 
-[![Happy Horse 1.0 Banner](banner.png)](https://evolink.ai/models?utm_source=github&utm_medium=banner&utm_campaign=happy-horse)
+[![Happy Horse 1.0 Banner](banner.png)](https://evolink.ai/happyhorse-coming-soon?utm_source=github&utm_medium=banner&utm_campaign=happy-horse)
 
 Resmi X hesabı, Alibaba tarafındaki herkese açık paylaşımlar ve topluluk tepkileri dahil olmak üzere Happy Horse 1.0 ile ilgili en son sinyalleri tek bir yerde takip edin.
 
